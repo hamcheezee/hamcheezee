@@ -85,6 +85,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/64c4e08a42e4ed51cf703654_airflow_transparent.png" title="Android Studio" alt="Apache Airflow" width="50" height="50"/>&nbsp;
 
 ---
 ### 📊 My Stats :
